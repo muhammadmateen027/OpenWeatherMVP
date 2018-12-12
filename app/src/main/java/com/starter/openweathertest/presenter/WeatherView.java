@@ -1,9 +1,7 @@
 package com.starter.openweathertest.presenter;
 
-import android.app.Activity;
 import android.content.Context;
 
-import com.starter.openweathertest.MainActivity;
 import com.starter.openweathertest.model.Weather;
 
 public class WeatherView implements WeatherMVC.View {

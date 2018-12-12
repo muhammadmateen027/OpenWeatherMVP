@@ -6,7 +6,6 @@ import android.util.Log;
 import com.android.volley.VolleyError;
 import com.starter.openweathertest.parser.WeatherParser;
 import com.starter.openweathertest.web.ResponseListener;
-import com.starter.openweathertest.web.VolleyConf;
 import com.starter.openweathertest.web.WebConstant;
 import com.starter.openweathertest.web.WebController;
 
