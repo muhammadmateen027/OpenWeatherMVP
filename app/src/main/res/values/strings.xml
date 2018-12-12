@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Current Weather</string>
+    <string name="search_hint">Search here</string>
+    <string name="pressure_st">Pressure</string>
+    <string name="humidity_st">Humidity</string>
+    <string name="hPa_st">hPa</string>
+
+    <string name="no_city_msg">No city found with this name. </string>
+    <string name="no_conn_msg">No Internet Connection</string>
+</resources>
